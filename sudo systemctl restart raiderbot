@@ -1,0 +1,51 @@
+Raider Bot – Nutzungsbedingungen und Datenschutzerklärung
+Stand: 25. November 2026. Ersetze vor der Veröffentlichung alle Platzhalter in [eckigen Klammern] durch deine Angaben. Jeder Teil kann als eigene Seite veröffentlicht werden.
+Teil 1: Nutzungsbedingungen
+1. Geltungsbereich
+Diese Bedingungen gelten für die Nutzung des Discord-Bots „Raider Bot“ auf dem Discord-Server der Community von Raider_Zino_. Mit der Nutzung des Bots, also auch mit dem Schreiben im Server, stimmst du diesen Bedingungen zu.
+2. Leistungen
+Der Bot bietet unter anderem: Rollenvergabe per Button, Begrüßungsnachrichten, Moderationswerkzeuge (Link-Filter, Spam-Schutz, Verwarnungen, Timeouts, Mod-Log), ein Level-System, Tickets, Giveaways, Umfragen, Vorschläge, Geburtstage, Erinnerungen, Spiel-Befehle sowie Infos zu Twitch (Live-Status, Clips, optional Spiegelung des Twitch-Chats).
+Die Nutzung ist kostenlos. Es besteht kein Anspruch auf bestimmte Funktionen oder dauerhafte Verfügbarkeit. Der Betreiber kann Funktionen jederzeit ändern, einschränken oder abschalten.
+3. Regeln für die Nutzung
+• Es gelten die Nutzungsbedingungen und Community-Richtlinien von Discord sowie die Regeln des Servers.
+• Der Bot darf nicht missbraucht werden, zum Beispiel durch Spam, das gezielte Umgehen von Filtern, das Überlasten von Befehlen oder das Ausnutzen von Fehlern.
+• Beim Teilen von Inhalten (Vorschläge, Tickets, Umfragen) dürfen keine Rechte Dritter verletzt und keine rechtswidrigen Inhalte verbreitet werden.
+• Wer gegen diese Regeln verstößt, kann von einzelnen Funktionen oder vom Server ausgeschlossen werden.
+4. Automatische Moderation
+Der Bot kann Nachrichten automatisch löschen (z. B. unerlaubte Links), Mitglieder bei Spam zeitweise stummschalten und bei mehreren Verwarnungen einen Timeout verhängen. Fehlentscheidungen sind möglich. Wenn du dich ungerecht behandelt fühlst, wende dich an das Server-Team oder den Betreiber.
+5. Giveaways
+Die Teilnahme an Giveaways ist kostenlos. Die Gewinner werden per Zufall ermittelt. Es besteht kein Rechtsanspruch auf einen Gewinn. Der Betreiber kann ein Giveaway bei Missbrauch oder technischen Problemen abbrechen.
+6. Datenschutz
+Welche Daten der Bot verarbeitet, steht in der Datenschutzerklärung (Teil 2).
+7. Haftung
+Der Bot wird ohne Gewähr bereitgestellt. Der Betreiber haftet nur für Vorsatz und grobe Fahrlässigkeit sowie bei Verletzung von Leben, Körper und Gesundheit. Gesetzliche Haftungsregeln, die sich nicht ausschließen lassen, bleiben unberührt.
+8. Änderungen und Beendigung
+Der Betreiber kann diese Bedingungen ändern. Die jeweils aktuelle Fassung steht unter [Link zu dieser Seite]. Der Betrieb des Bots kann jederzeit eingestellt werden.
+9. Anwendbares Recht
+Es gilt deutsches Recht. Zwingende Verbraucherschutzvorschriften deines Wohnsitzlandes bleiben unberührt.
+10. Kontakt
+[Dein Name], [E-Mail-Adresse oder Discord-Name]
+Teil 2: Datenschutzerklärung
+1. Welche Daten verarbeitet der Bot?
+• Nachrichten auf dem Server: Der Bot liest Nachrichten, um Links zu filtern, Spam zu erkennen und XP im Level-System zu vergeben. Die Nachrichtentexte werden dafür nicht dauerhaft gespeichert. Wenn der Mod-Log aktiviert ist, werden gelöschte und bearbeitete Nachrichten mit Inhalt im Kanal #mod-log angezeigt, den nur das Server-Team sieht. Diese Einträge liegen bei Discord.
+• Level-System: Discord-Nutzer-ID, Anzeigename, XP und Zeitpunkt der letzten XP-Vergabe.
+• Verwarnungen: Discord-Nutzer-ID, Anzeigename, Grund, Name der Moderatorin oder des Moderators und Zeitpunkt.
+• Giveaways: Discord-Nutzer-ID der Teilnehmenden.
+• Geburtstage (freiwillig, über /geburtstag): Discord-Nutzer-ID sowie Tag und Monat, ohne Jahr.
+• Erinnerungen (freiwillig, über /erinnerung): Discord-Nutzer-ID, Kanal-ID, Erinnerungstext und Zeitpunkt. Nach dem Auslösen wird der Eintrag gelöscht.
+• Tickets: Der Bot legt einen privaten Kanal an. Inhalte des Tickets speichert der Bot nicht, sie liegen bei Discord.
+• Twitch: Der Bot ruft öffentliche Informationen zum Kanal ab (Live-Status, Titel, Spiel, Zuschauerzahl, Clips). Wenn die Funktion eingeschaltet ist, werden öffentliche Nachrichten aus dem Twitch-Chat (Nutzername und Text, ohne Links) im Kanal #stream-chat angezeigt. Der Bot speichert diese Nachrichten nicht.
+• Dashboard: Das Dashboard ist nur für den Betreiber zugänglich und passwortgeschützt. Dabei wird ein Sitzungs-Cookie im Browser des Betreibers gesetzt. Besucherdaten werden nicht erhoben.
+3. Zwecke und Rechtsgrundlagen
+• Betrieb, Moderation und Schutz der Community (Level-System, Verwarnungen, Filter, Mod-Log): berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO.
+• Freiwillige Funktionen (Geburtstag, Erinnerung, Giveaway-Teilnahme): Einwilligung durch die Nutzung des jeweiligen Befehls bzw. Buttons, Art. 6 Abs. 1 lit. a DSGVO. Du kannst die Einwilligung jederzeit widerrufen.
+4. Weitergabe
+Der Betreiber verkauft keine Daten, betreibt kein Tracking und schaltet keine Werbung. Daten werden nur an Discord (zur Funktion des Bots) und für Abrufe öffentlicher Informationen an Twitch übermittelt. Für diese Dienste gelten deren eigene Datenschutzerklärungen.
+5. Speicherdauer
+Level-Daten, Verwarnungen, Geburtstage und Giveaway-Teilnahmen bleiben gespeichert, bis sie auf Anfrage oder durch das Server-Team gelöscht werden oder der Bot eingestellt wird. Erinnerungen werden nach dem Auslösen gelöscht.
+6. Deine Rechte
+Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch. Außerdem kannst du dich bei der zuständigen Datenschutz-Aufsichtsbehörde beschweren. Schreib dafür an die oben genannte Kontaktadresse.
+7. Sicherheit
+Die Daten liegen in einer lokalen Datenbank auf dem Server des Betreibers. Der Zugriff ist auf den Betreiber beschränkt, das Dashboard ist durch ein Passwort geschützt.
+8. Änderungen
+Diese Erklärung kann angepasst werden, wenn der Bot neue Funktionen bekommt. Die aktuelle Fassung steht unter [Link zu dieser Seite].
